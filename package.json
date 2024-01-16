@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/webpack-config": "^19.0.0",
     "@react-native-async-storage/async-storage": "1.18.2",
     "@tensorflow/tfjs": "^4.15.0",
     "@tensorflow/tfjs-react-native": "^1.0.0",
@@ -17,6 +18,7 @@
     "expo-file-system": "~15.4.5",
     "expo-gl": "~13.0.1",
     "expo-gl-cpp": "^11.4.0",
+    "expo-permissions": "~14.2.1",
     "expo-splash-screen": "~0.20.5",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
